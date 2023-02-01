@@ -1,0 +1,7 @@
+- Servidor Proxy en Linux - SQUID
+- Máquina HackTheBox FOREST
+- Tutorial hacking windows Kerberoasting
+- Comando lsof para conocer qué servicio ocupa un determinado puerto en Linux.
+- Crear una herramienta para hacer web scrapping con bash.
+- Apuntes de varios comandos básicos y útiles de Linux
+- Expresiones regulares | Comando sed 

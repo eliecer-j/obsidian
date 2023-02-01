@@ -1,0 +1,1 @@
+Una vez cargado el gestor de arranque y todo listo, es cuando se inicia el demonio init, que se encargará de ejecutar todo lo demas y el resto de procesos para que el sistema pueda arrancar.
