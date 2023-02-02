@@ -28,10 +28,17 @@ Después agrega esto en el archivo .yml
 
 
 Ejecuta el archivo,
+<<<<<<< HEAD
   ```bash
   
 sudo /usr/bin/ruby /directoriodelarchivo
 ```
+=======
+```bash
+sudo /usr/bin/ruby archivo.rb
+```
+
+>>>>>>> 5b0814ed63ffd2f30d31a95ba5bd05c89207d07d
 Ahora typea
 
 ```bash
