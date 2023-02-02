@@ -28,7 +28,10 @@ Después agrega esto en el archivo .yml
 
 
 Ejecuta el archivo,
-
+  ```bash
+  
+sudo /usr/bin/ruby /directoriodelarchivo
+```
 Ahora typea
 
 ```bash

