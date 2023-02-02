@@ -28,6 +28,9 @@ Después agrega esto en el archivo .yml
 
 
 Ejecuta el archivo,
+```bash
+sudo /usr/bin/ruby archivo.rb
+```
 
 Ahora typea
 
