@@ -69,5 +69,5 @@ ejecuta el archivo python3 ./archivo
 
 usa sql map
 ```bash
-sqlmap -u "http://localhost:8081/?id=" --bash --dbs
+sqlmap -u "http://localhost:8081/?id=1" --batch --dbs
 ```
